@@ -1,4 +1,16 @@
 __pycache__/
+*.py[cod]
 .DS_Store
 .env
 .idea
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Test / coverage artifacts
+.pytest_cache/
+.coverage
+coverage.xml
+htmlcov/
